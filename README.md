@@ -15,7 +15,7 @@ The each DB table's contents are described below.
 | Column Names  | Description           | 
 | ------------- |:-------------:| 
 | id     | Links the three DB tables | 
-| topic_forum   | The forum/ subforum the feedback is from     | 
+| topic_forum   | The forum/subforum the feedback is from     | 
 | post_position | Forum field the feedback is from: title, initial post, reply, etc      | 
 | user_level     | User level of the feedback author | 
 | sentence   | Feedback sentence      | 
