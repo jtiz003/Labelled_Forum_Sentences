@@ -1,4 +1,4 @@
-# Labelled_Forum_Sentences
+# Labelled_Forum_Sentences (Artifact RE-2019)
 ## Contact details
 Contact: James Tizard
 
