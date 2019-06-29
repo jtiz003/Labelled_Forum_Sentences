@@ -22,16 +22,18 @@ The labelled sentence table's contents are described below.
 |label | Manually given sentence label      | 
 
 ### verbs
-This table contains the verb counts for each feedback sentence. The tables are link via the id column
+This table contains the verb counts for each feedback sentence. The tables are linked via the id column
 
 | Column Names  | Description           | 
+| id     | Links the three DB tables | 
 | ------------- |:-------------:| 
 | |     | 
 
 ### POS
 
-This table contains the POS counts for each feedback sentence. The tables are link via the id column
+This table contains the POS counts for each feedback sentence. The tables are linked via the id column
 
 | Column Names  | Description           | 
 | ------------- |:-------------:| 
+| id     | Links the three DB tables | 
 | |     | 
