@@ -1,7 +1,7 @@
 # Labelled_Forum_Sentences
 This repository contains "Artifacts" from our research on software product forums. The research is described in our paper "Can A Conversation Paint A Picture? Mining Requirements In Software Forums", submitted to the Requirements Engineering conference 2019.
 
-The Artifact is the manually labelled, software product forum feedback, created in our research and used as the truth set for RQ2 and RQ3. The feedback is labelled per sentence, with one of 18 forum feedback classifications, detailed in our paper. 
+The Artifact is the manually labelled, software product forum feedback, created in our research and used as the truth set for RQ2 and RQ3. The feedback is labelled per sentence, with 1 of 18 forum feedback classifications, detailed in our paper. 
 
 ## Database file
 
