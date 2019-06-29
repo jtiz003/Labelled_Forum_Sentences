@@ -1,6 +1,6 @@
 # Labelled_Forum_Sentences
 ## Contact details
-First contact: James Tizard
+Contact: James Tizard
 
 Email: jtiz003@aucklanduni.ac.nz
 
