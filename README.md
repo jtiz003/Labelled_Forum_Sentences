@@ -1,8 +1,5 @@
 # Labelled_Forum_Sentences (Artifact RE-2019)
 ## Contact details
-Contact: James Tizard
-
-Email: jtiz003@aucklanduni.ac.nz
 
 RE Submission ID: 17
 
